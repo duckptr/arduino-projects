@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\docs",
+    "\\examples",
+    "\\examples\\Knob",
+    "\\examples\\Sweep",
+    "\\src",
+    "\\src\\mbed"
+  ],
+  "SelectedNode": "\\src\\mbed\\Servo.cpp",
+  "PreviewInSolutionExplorer": false
+}
